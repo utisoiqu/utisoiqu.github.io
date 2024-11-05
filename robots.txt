@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utisoiqu.github.io/Byx/sitemap_index.txt
+Sitemap: https://utisoiqu.github.io/WRk/sitemap_index.txt
+Sitemap: https://utisoiqu.github.io/bBu/sitemap_index.txt
+Sitemap: https://utisoiqu.github.io/pgE/sitemap_index.txt
